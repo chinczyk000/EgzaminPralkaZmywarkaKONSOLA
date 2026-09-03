@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Urzadzenie {
+public class  Urzadzenie{
+    public void wyswietlKomunikat(String komunikat){
+        System.out.println(komunikat);
+    }
 }
